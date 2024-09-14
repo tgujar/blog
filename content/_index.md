@@ -1,7 +1,7 @@
 +++
 title = "Tanmay Gujar's website"
 date = 2024-09-14T10:49:55+05:30
-draft = true
+draft = false
 +++
 
 Hello, and welcome to my corner of the internet!

@@ -1,7 +1,7 @@
 +++
 title = 'About'
 date = 2024-09-14T11:11:27+05:30
-draft = true
+draft = false
 menu = 'main'
 +++
 
