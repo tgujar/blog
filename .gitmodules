@@ -1,3 +1,4 @@
-[submodule "themes/hugo-blog"]
-	path = themes/hugo-blog
-	url = https://github.com/tgujar/hugo-blog.git
+
+[submodule "themes/hugo-bearblog"]
+	path = themes/hugo-bearblog
+	url = https://github.com/janraasch/hugo-bearblog.git
