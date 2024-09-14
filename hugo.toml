@@ -7,7 +7,7 @@
 baseURL = "https://tgujar.github.io"
 
 # The name of this wonderful theme ;-).
-theme = 'hugo-blog'
+theme = 'github.com/tgujar/hugo-blog'
 
 # Basic metadata configuration for your blog.
 title = "Tanmay Gujar's website"
